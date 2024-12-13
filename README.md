@@ -117,11 +117,12 @@ Execute the programs and publish them.
 ![Screenshot 2024-12-13 101813](https://github.com/user-attachments/assets/ecd2c361-12bb-4412-a2bc-4634d94f685c)
 
 
-
+NAME : Charumathi A
+REGISTER NUMBER : 24004958
 
 
 
 # RESULT
 The program for implementing image maps using HTML is executed successfully.
-NAME : Charumathi A
-REGISTER NUMBER : 24004958
+
+
