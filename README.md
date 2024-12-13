@@ -23,6 +23,7 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 # CODE
+```
 <img src="C:\Users\admin\OneDrive\Pictures\Screenshots\Screenshot (22).png" usemap="#image-map">
 
 <map name="image-map">
@@ -106,13 +107,21 @@ Execute the programs and publish them.
 
 </body>
 </html>
+```
 # OUTPUT
-![Screenshot 2024-12-13 101130](https://github.com/user-attachments/assets/e04dcf57-ba3d-4633-aa79-77102333f4bf)
-![Screenshot 2024-12-13 101145](https://github.com/user-attachments/assets/36884761-63db-4ef1-b146-3ae772536a75)
-![Screenshot 2024-12-13 101512](https://github.com/user-attachments/assets/d278deb4-174d-417e-bcbf-8d3716078027)
-![Screenshot 2024-12-13 101532](https://github.com/user-attachments/assets/ede79a1c-43c0-4a0d-9134-9ae1cfeca6c5)
-![Screenshot 2024-12-13 101813](https://github.com/user-attachments/assets/d5407762-4c8c-42d7-9d25-8f10f86d299b)
+
+![Screenshot 2024-12-13 101130](https://github.com/user-attachments/assets/b64096f4-702d-4e18-b500-40b759174557)
+![Screenshot 2024-12-13 101145](https://github.com/user-attachments/assets/45f631a7-0c79-4bfe-bf8f-1a059f4291c9)
+![Screenshot 2024-12-13 101512](https://github.com/user-attachments/assets/f7178add-caae-46a4-9e2e-52a923b2b757)
+![Screenshot 2024-12-13 101532](https://github.com/user-attachments/assets/9c5f42f5-f5c4-4d90-ba3f-86c31f6ac85f)
+![Screenshot 2024-12-13 101813](https://github.com/user-attachments/assets/ecd2c361-12bb-4412-a2bc-4634d94f685c)
+
+
+
+
 
 
 # RESULT
 The program for implementing image maps using HTML is executed successfully.
+NAME : Charumathi A
+REGISTER NUMBER : 24004958
